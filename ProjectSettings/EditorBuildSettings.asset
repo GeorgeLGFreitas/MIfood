@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Examples/Maze/MazeLevel0.unity
+    guid: 029e597475c3944a5b42678232c2822b
+  - enabled: 0
+    path: Assets/Examples/Maze/MazeLevel1.unity
+    guid: f9b71d909be1c4e9dbb8b3599d76b33c
+  - enabled: 0
+    path: Assets/Examples/Adventure/Adventure.unity
+    guid: f723b1979947445779b87ef7a1089a32
+  - enabled: 0
+    path: Assets/Examples/Football/Football.unity
+    guid: 8b655b0fb8d8c4758a154fd99dc41447
+  - enabled: 0
+    path: Assets/Examples/Lander/Lander.unity
+    guid: 3925160d1efe749d5a026cbf18c60f83
+  - enabled: 0
+    path: Assets/Examples/Roguelike/Roguelike.unity
+    guid: ad15a26015e49439387b05c22fe7a962
+  - enabled: 0
+    path: Assets/Scenes/Hi-Score.unity
+    guid: 4aee67f67e8c0a7489639bb80983f267
+  - enabled: 1
+    path: Assets/Scenes/Video.unity
+    guid: 6efa4e5e0bc2f134eae028d3e7d19f10
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 15b5b8b124bfb0a46997d879a7eb7496
+  - enabled: 1
+    path: Assets/Scenes/LvL1 passado.unity
+    guid: 2dd9f692a81b36a4298f71f25db0d230
+  - enabled: 1
+    path: Assets/Scenes/LvL2 passado.unity
+    guid: 9dc0bfc416113d646ad9fd11707ed6e2
+  - enabled: 1
+    path: Assets/Scenes/LvL3 passado.unity
+    guid: dc75ad5ba9181e4458f3fcfece0a20c2
+  - enabled: 1
+    path: Assets/Scenes/LvL4 presente.unity
+    guid: dfa41ba6ebeb131459638b4d98e10a09
+  - enabled: 1
+    path: Assets/Scenes/LvL5 presente.unity
+    guid: 22f25d9f08aa0c647b2dcd62667d2fb1
+  - enabled: 1
+    path: Assets/Scenes/LvL6 presente.unity
+    guid: da9bf31e7531e9146aeeaf5ee0aa7524
+  - enabled: 1
+    path: Assets/Scenes/LvL7 futuro.unity
+    guid: 26dbd31822ad6fe45b29f9ea488887e8
+  - enabled: 1
+    path: Assets/Scenes/LvL8 futuro.unity
+    guid: 4e06a5a74d693c44f8284b25bb9f1a9b
+  - enabled: 1
+    path: Assets/Scenes/LvL9 futuro.unity
+    guid: 421b5e390c4cdb94bb6048ca8bbcc1ed
+  - enabled: 1
+    path: Assets/Scenes/Final.unity
+    guid: 892e838f65db9f04194aa9e8c544b7a9
+  - enabled: 1
+    path: Assets/Scenes/LvL tutorial (presente).unity
+    guid: b79c193fd1b23a247aaec5e66102c38e
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  m_configObjects: {}

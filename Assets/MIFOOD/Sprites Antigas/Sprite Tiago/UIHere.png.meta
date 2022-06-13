@@ -1,0 +1,1231 @@
+fileFormatVersion: 2
+guid: 0231d61546aec284a88d00849c8beeb6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8646670139068233647
+    second: UIHere_0
+  - first:
+      213: -4259356731837786960
+    second: UIHere_1
+  - first:
+      213: 6494750745717673410
+    second: UIHere_2
+  - first:
+      213: -1930744027817769849
+    second: UIHere_3
+  - first:
+      213: -9079337829080702144
+    second: UIHere_4
+  - first:
+      213: -182485000484205684
+    second: UIHere_5
+  - first:
+      213: -5166803556392450321
+    second: UIHere_6
+  - first:
+      213: 3448814341269059745
+    second: UIHere_7
+  - first:
+      213: -5742954787039367567
+    second: UIHere_8
+  - first:
+      213: 8082125992445825056
+    second: UIHere_9
+  - first:
+      213: 7168055423173568934
+    second: UIHere_10
+  - first:
+      213: -6125086826121461871
+    second: UIHere_11
+  - first:
+      213: 63320910902582714
+    second: UIHere_12
+  - first:
+      213: 7124646267732939827
+    second: UIHere_13
+  - first:
+      213: -228968156548082695
+    second: UIHere_14
+  - first:
+      213: -9099019410661356653
+    second: UIHere_15
+  - first:
+      213: 3172694232461779241
+    second: UIHere_16
+  - first:
+      213: -7486412673841880444
+    second: UIHere_17
+  - first:
+      213: -4710301038004617547
+    second: UIHere_18
+  - first:
+      213: 7510221628616607621
+    second: UIHere_19
+  - first:
+      213: 320468659366327350
+    second: UIHere_20
+  - first:
+      213: 7823507140550447960
+    second: UIHere_21
+  - first:
+      213: 2034879261705619674
+    second: UIHere_22
+  - first:
+      213: 5118189890896076379
+    second: UIHere_23
+  - first:
+      213: -7343549597896122186
+    second: UIHere_24
+  - first:
+      213: 256445504932325415
+    second: UIHere_25
+  - first:
+      213: 3675561760110528523
+    second: UIHere_26
+  - first:
+      213: 6456518314254556809
+    second: UIHere_27
+  - first:
+      213: 7422358182193033220
+    second: UIHere_28
+  - first:
+      213: -6588970520509286048
+    second: UIHere_29
+  - first:
+      213: 8539317485418768167
+    second: UIHere_30
+  - first:
+      213: 1204406191591994392
+    second: UIHere_31
+  - first:
+      213: 1397818284928161181
+    second: UIHere_32
+  - first:
+      213: 4454818666733733434
+    second: UIHere_33
+  - first:
+      213: -6783770832836439842
+    second: UIHere_34
+  - first:
+      213: 8321515738215293416
+    second: UIHere_35
+  - first:
+      213: 1073190631820638068
+    second: UIHere_36
+  - first:
+      213: 6732770567642905196
+    second: UIHere_37
+  - first:
+      213: 1200329438472550627
+    second: UIHere_38
+  - first:
+      213: 8474218042589681838
+    second: UIHere_39
+  - first:
+      213: 9152982869233754796
+    second: UIHere_40
+  - first:
+      213: 1794240041324987911
+    second: UIHere_41
+  - first:
+      213: -681102983137016285
+    second: UIHere_42
+  - first:
+      213: -6565762433364165554
+    second: UIHere_43
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UIHere_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 445
+        width: 69
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0083b0af91d4e64cae56269cfd87a2e
+      internalID: 8646670139068233647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHere_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 444
+        width: 54
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8bc2eca835d19e47a92157aa04ae23e
+      internalID: -4259356731837786960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHere_2
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 445
+        width: 73
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9681257321b864c4cb95769793b67c2c
+      internalID: 6494750745717673410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHere_3
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 443
+        width: 54
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6347f69294ab14683fa46ec0222a0f
+      internalID: -1930744027817769849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHere_4
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 445
+        width: 75
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cbd6b4d9a519964c928c53b676a8ed3
+      internalID: -9079337829080702144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHere_5
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 444
+        width: 58
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d561b27435b0145489bc30e0e31d4017
+      internalID: -182485000484205684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHere_6
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 445
+        width: 75
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec343876d4237d47b3b74bfe58a4917
+      internalID: -5166803556392450321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHere_7
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 443
+        width: 56
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393164be0ed89174ea54578370acc97a
+      internalID: 3448814341269059745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHere_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 359
+        width: 67
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050ebc9f9a630624ebd0fc393c783b17
+      internalID: -5742954787039367567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHere_9
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 352
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a2d43c70efdb548be8e902a3950152
+      internalID: 8082125992445825056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHere_10
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 350
+        width: 73
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9755d72af573a8409795d0275c2ea0b
+      internalID: 7168055423173568934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHere_11
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 334
+        width: 87
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb8ba1a2c92aed4fb7fb72ab055dee1
+      internalID: -6125086826121461871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHere_12
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 360
+        width: 75
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e557ce84292d504eb2ac8f264801823
+      internalID: 63320910902582714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHere_13
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 359
+        width: 58
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20fda47b0bf82f45b78fe6e2b855a08
+      internalID: 7124646267732939827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHere_14
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 360
+        width: 75
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bdd76b262666584dbb3cbfe83dc72df
+      internalID: -228968156548082695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHere_15
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 358
+        width: 56
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfacfbeeaeb795428e316d9fae5f014
+      internalID: -9099019410661356653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHere_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 277
+        width: 72
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50abd133de0f3844ac9b2c6f051b4e5
+      internalID: 3172694232461779241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHere_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 277
+        width: 67
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18a8c35a20f3024983824b9efdc5386
+      internalID: -7486412673841880444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHere_18
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 276
+        width: 78
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45b6b0df4074d541b608353fce31469
+      internalID: -4710301038004617547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHere_19
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 278
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af97c35d22883634c95bae6a1e6ce012
+      internalID: 7510221628616607621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHere_20
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 277
+        width: 72
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1410ddae85030a6418b25b93d6f5ed3a
+      internalID: 320468659366327350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHere_21
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 277
+        width: 67
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab02dcc04d98cb43bdab0ac97c6d54c
+      internalID: 7823507140550447960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHere_22
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 276
+        width: 78
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde9a66a92d3a554fbb00ce3278ab296
+      internalID: 2034879261705619674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHere_23
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 278
+        width: 70
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e802f14f6b9e7409cbd89a0d702524
+      internalID: 5118189890896076379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHere_24
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 195
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5553caa0dd668d34dbf45ad6d338d87f
+      internalID: -7343549597896122186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHere_25
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 196
+        width: 57
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b3cdc0a78656744b41da9f4c23d699
+      internalID: 256445504932325415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHere_26
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 195
+        width: 63
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e4b08b587c5864cb6b80ec7bc50bce
+      internalID: 3675561760110528523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHere_27
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 184
+        width: 85
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef6696b54ed0794980de4fc5a9b0284
+      internalID: 6456518314254556809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHere_28
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 195
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4237b1de73674b84183a67ff8347f7a2
+      internalID: 7422358182193033220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHere_29
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 196
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d3e346e7b942246b8ef202962b1b7e
+      internalID: -6588970520509286048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHere_30
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 196
+        width: 61
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572c8f093ad132d40a6a4c689de2c461
+      internalID: 8539317485418768167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHere_31
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 184
+        width: 82
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3162a6187fd4a6b48974df8cdf1a6d59
+      internalID: 1204406191591994392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHere_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 84
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988c1a5c43209ab40b72968743cccfa2
+      internalID: 1397818284928161181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHere_33
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 114
+        width: 83
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecdeea6ea6174a40832e8fa733e825d
+      internalID: 4454818666733733434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHere_34
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 113
+        width: 84
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7bf151157e532479429fcae5aba1d8
+      internalID: -6783770832836439842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHere_35
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 114
+        width: 83
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01ac7cc354926f40bb64accb42b4d08
+      internalID: 8321515738215293416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHere_36
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 102
+        width: 82
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd775bb8f1793e4ea614e6a9fbcd18e
+      internalID: 1073190631820638068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHere_37
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 100
+        width: 147
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06eea4c267b782b41843db2ccdd90dd1
+      internalID: 6732770567642905196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHere_38
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 98
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed201924a351f424986a6748f8183f02
+      internalID: 1200329438472550627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHere_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 22
+        width: 338
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5352171773275a74ab2071263c29d885
+      internalID: 8474218042589681838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHere_40
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 15
+        width: 80
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46bcb25fe4497a4ba587d1907dbbbe4
+      internalID: 9152982869233754796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHere_41
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 18
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957a60bf321eb194fa5e139cbb2dcde9
+      internalID: 1794240041324987911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHere_42
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 20
+        width: 80
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f17326d551cd44fa43a0a167e1d2c1
+      internalID: -681102983137016285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHere_43
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 16
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0163dcd9463a18144b6907c0896936d8
+      internalID: -6565762433364165554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 47ea9316fafe9fd41adb719d34779b26
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
